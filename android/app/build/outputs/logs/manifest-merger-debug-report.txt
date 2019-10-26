@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/hanakim/ClassMatch/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ad3dccaf81b70b6dc45a330ddf30607f/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/101d8c9b360729d1f61c256d372357d2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/1f4d7c436b9da40c9da0d3d30e3e3eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae3f677a30ebf1019ca25da81f139dd0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/6639ce0eae271da401bd55a34a70b93d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ef262a64000f0ecdc7ec72f95d05b246/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d95a42cddb5d2c92afcd429ff50fd2d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/5ff86589c8e70501eb5ea2221c29efea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/3d1206ecc94a7e32a0b57087365e1042/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f2334a6478048cce8e71972e304a043b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/961e173e09cd07801a55af3d0b68b790/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d3da00dadf6dfd59ef59440324b2d4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8c416357b352420867bbd0c85ddd26bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/440e62265b10b2629f7304371d0a1f3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9c8d14a851b7b55427debfe432442a37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/25d81f3b268e8f9f3a92d59a5feba928/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e311f2eaae5d1bd92f7a8b1d19f29790/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f6b610b26ca578464f189ccab81ff042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/05c2dc6c42888eb32eeafa50cb2fe696/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/cd9daa12265ab61c3fd921d1f70e17c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8b608946513b373bb9e8191af048adfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9e9f3199f148801315ebe8886b2800a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e300bccfede31c6a9bb31c8deabcbe2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/4f890cc3427ea6bef54f87428316381d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/13252d2f600616c80bc9268793342af5/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b57b842fbd8cac33cc6d1e88097ada4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/38ead568612b495368180e01510fa8b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d8db5d3cdf1fa31cba92c34fba3f5750/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b7b7d69b561233a37b120df26fb97193/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9a141e0128c1fc6a0538bb94a7b117cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/fd94d1f66866daee258a7f31f17d59aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2e598abbbf8ba44f865f806f1d9f7039/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2a0b24cfd13d4b5dd33b593c885429e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/c01f38f18e973ec6cd4bc4b35798ddba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/758be4fccd023f3bf07382b815c61d72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae9af495df93dc87373c796dce10438e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ad3dccaf81b70b6dc45a330ddf30607f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ad3dccaf81b70b6dc45a330ddf30607f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/961e173e09cd07801a55af3d0b68b790/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/961e173e09cd07801a55af3d0b68b790/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/13252d2f600616c80bc9268793342af5/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/13252d2f600616c80bc9268793342af5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.classmatch.MainActivity
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/hanakim/ClassMatch/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/hanakim/ClassMatch/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ad3dccaf81b70b6dc45a330ddf30607f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ad3dccaf81b70b6dc45a330ddf30607f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/101d8c9b360729d1f61c256d372357d2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/101d8c9b360729d1f61c256d372357d2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/1f4d7c436b9da40c9da0d3d30e3e3eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/1f4d7c436b9da40c9da0d3d30e3e3eb8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae3f677a30ebf1019ca25da81f139dd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae3f677a30ebf1019ca25da81f139dd0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/6639ce0eae271da401bd55a34a70b93d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/6639ce0eae271da401bd55a34a70b93d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ef262a64000f0ecdc7ec72f95d05b246/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ef262a64000f0ecdc7ec72f95d05b246/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d95a42cddb5d2c92afcd429ff50fd2d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d95a42cddb5d2c92afcd429ff50fd2d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/5ff86589c8e70501eb5ea2221c29efea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/5ff86589c8e70501eb5ea2221c29efea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/3d1206ecc94a7e32a0b57087365e1042/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/3d1206ecc94a7e32a0b57087365e1042/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f2334a6478048cce8e71972e304a043b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f2334a6478048cce8e71972e304a043b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/961e173e09cd07801a55af3d0b68b790/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/961e173e09cd07801a55af3d0b68b790/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d3da00dadf6dfd59ef59440324b2d4e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d3da00dadf6dfd59ef59440324b2d4e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8c416357b352420867bbd0c85ddd26bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8c416357b352420867bbd0c85ddd26bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/440e62265b10b2629f7304371d0a1f3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/440e62265b10b2629f7304371d0a1f3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9c8d14a851b7b55427debfe432442a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9c8d14a851b7b55427debfe432442a37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/25d81f3b268e8f9f3a92d59a5feba928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/25d81f3b268e8f9f3a92d59a5feba928/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e311f2eaae5d1bd92f7a8b1d19f29790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e311f2eaae5d1bd92f7a8b1d19f29790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f6b610b26ca578464f189ccab81ff042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/f6b610b26ca578464f189ccab81ff042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/05c2dc6c42888eb32eeafa50cb2fe696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/05c2dc6c42888eb32eeafa50cb2fe696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/cd9daa12265ab61c3fd921d1f70e17c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/cd9daa12265ab61c3fd921d1f70e17c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8b608946513b373bb9e8191af048adfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/8b608946513b373bb9e8191af048adfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9e9f3199f148801315ebe8886b2800a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9e9f3199f148801315ebe8886b2800a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e300bccfede31c6a9bb31c8deabcbe2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/e300bccfede31c6a9bb31c8deabcbe2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/4f890cc3427ea6bef54f87428316381d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/4f890cc3427ea6bef54f87428316381d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d0873de3a6283c6c5fe938e5246ec3af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/13252d2f600616c80bc9268793342af5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/13252d2f600616c80bc9268793342af5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b57b842fbd8cac33cc6d1e88097ada4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b57b842fbd8cac33cc6d1e88097ada4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/38ead568612b495368180e01510fa8b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/38ead568612b495368180e01510fa8b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d8db5d3cdf1fa31cba92c34fba3f5750/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/d8db5d3cdf1fa31cba92c34fba3f5750/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b7b7d69b561233a37b120df26fb97193/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/b7b7d69b561233a37b120df26fb97193/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9a141e0128c1fc6a0538bb94a7b117cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/9a141e0128c1fc6a0538bb94a7b117cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/fd94d1f66866daee258a7f31f17d59aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/fd94d1f66866daee258a7f31f17d59aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2e598abbbf8ba44f865f806f1d9f7039/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2e598abbbf8ba44f865f806f1d9f7039/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2a0b24cfd13d4b5dd33b593c885429e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/2a0b24cfd13d4b5dd33b593c885429e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/c01f38f18e973ec6cd4bc4b35798ddba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/c01f38f18e973ec6cd4bc4b35798ddba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/758be4fccd023f3bf07382b815c61d72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/758be4fccd023f3bf07382b815c61d72/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae9af495df93dc87373c796dce10438e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hanakim/.gradle/caches/transforms-2/files-2.1/ae9af495df93dc87373c796dce10438e/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/hanakim/ClassMatch/android/app/src/debug/AndroidManifest.xml:5:22-75
